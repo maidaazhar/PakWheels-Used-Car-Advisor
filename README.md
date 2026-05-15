@@ -144,7 +144,7 @@ Dashboard available at: `http://localhost:5000`
 
 ## 👩‍💻 Author
 
-**Maida** — BS student, Machine Learning for Business Analytics (Spring 2026)
+**Maida Azhar** — FAST NUCES BSBA student, Machine Learning for Business Analytics (Spring 2026)
 
 ---
 
