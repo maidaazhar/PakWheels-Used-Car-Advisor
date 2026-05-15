@@ -127,6 +127,9 @@ Dashboard available at: `http://localhost:5000`
 - **Source:** Scraped from PakWheels.com
 - **Size:** ~45,000 used car listings
 - **Features:** Make, Model, Year, Mileage, Engine Capacity, Fuel Type, Transmission, Color, City, Registered In, Assembly, Price (PKR)
+- **Download:** [Google Drive →](https://drive.google.com/drive/folders/1xI4rLHOHPW28isZ5bChxfpKxkVQ7snpf?usp=sharing)
+
+> The CSV is not included in this repo due to file size. Download it from the link above and place it at `Data/pakwheels_listings.csv` before running the notebook.
 
 ---
 
